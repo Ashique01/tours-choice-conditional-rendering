@@ -9,8 +9,8 @@ const Tours = ({ tours, removeTour }) => {
       <div className="row">
         {tours.map((tour) => {
           return (
-            <div className="col-sm-12 col-md-12 col-lg-12" key={tour.id}>
-              <Tour {...tour} removeTour={removeTour} />
+            <div className="col-sm-12 col-md-12 col-lg-12">
+              <Tour {...tour} key={tour.id} removeTour={removeTour} />
             </div>
           );
         })}
