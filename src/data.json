@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Best of Paris in 10 days tour",
+    "description": "Embark on a 10-day journey to explore the beauty and charm of Paris. Begin your adventure by ascending the iconic Eiffel Tower, where you'll be greeted by breathtaking views of the city. Visit the world-renowned Louvre Museum, home to masterpieces like the Mona Lisa. Take a leisurely stroll along the Seine River, crossing charming bridges and passing by famous landmarks. Explore the historic streets of Montmartre, known for its bohemian atmosphere and the stunning Sacré-Cœur Basilica. Indulge in delicious French cuisine at local cafes and bistros. Don't miss the opportunity to experience the vibrant nightlife in neighborhoods like Le Marais and Pigalle. Immerse yourself in the rich art, culture, and history of the City of Light, creating memories that will last a lifetime.",
+    "image": "https://images.squarespace-cdn.com/content/v1/58ae29d9e58c62b1f48b67ed/1590610078231-TIC55EQIY31FRG5DBQWY/20170721T105816%2B0200.DSC_0280.V5fikRFXo3g.jpg",
+    "cost": "$2500"
+  },
+  {
+    "id": 2,
+    "title": "Discover the Wonders of Rome",
+    "description": "Step back in time and discover the ancient wonders of Rome. Marvel at the grandeur of the Colosseum, where gladiators once battled for glory. Explore the ruins of the Roman Forum and imagine life in ancient times. Admire the architectural masterpiece that is the Pantheon, with its impressive dome and rich history. Make a wish at the Trevi Fountain and toss a coin into its shimmering waters. Visit Vatican City, home to St. Peter's Basilica and the awe-inspiring Sistine Chapel. Take leisurely walks through picturesque neighborhoods like Trastevere, known for its narrow cobbled streets and vibrant atmosphere. Indulge in authentic Italian cuisine, savoring dishes like pasta carbonara and gelato. Rome is a city where ancient history meets modern vibrancy, offering a captivating experience at every turn.",
+    "image": "https://www.romecabs.com/upload/CONF99/20210621/Seven_Wonders_Ancient_Rome_Tour_Colosseum_Visit_RomeCabs.JPG",
+    "cost": "$2200"
+  },
+  {
+    "id": 3,
+    "title": "Escape to Bali's Tropical Paradise",
+    "description": "Experience the ultimate tropical getaway in Bali, an island paradise in Indonesia. Relax on stunning beaches with crystal-clear turquoise waters, surrounded by lush green landscapes. Explore the iconic rice terraces of Tegalalang and soak in the natural beauty. Discover ancient temples like Uluwatu Temple, perched on dramatic cliffs overlooking the Indian Ocean. Immerse yourself in the local culture, witnessing traditional Balinese dance performances and participating in vibrant festivals. Indulge in delicious Balinese cuisine, known for its aromatic spices and fresh ingredients. Pamper yourself with rejuvenating spa treatments and yoga sessions. For adventure seekers, Bali offers thrilling water sports such as surfing, diving, and white-water rafting. Trek to breathtaking waterfalls hidden in the jungles, or simply unwind and enjoy the serenity of the island. Bali promises a blissful escape filled with natural beauty, cultural immersion, and relaxation.",
+    "image": "https://daddysdeals.co.za/wp-content/uploads/2023/02/beach-in-nusa-penida-alfiano-sutianto-things-to-do-in-bali.jpg",
+    "cost": "$1800"
+  },
+  {
+    "id": 4,
+    "title": "Unforgettable Safari Adventure in Kenya",
+    "description": "Embark on an unforgettable safari adventure in Kenya, a wildlife haven in East Africa. Set out on thrilling game drives across iconic national parks like Maasai Mara, Amboseli, and Tsavo, where you'll encounter majestic creatures like lions, elephants, giraffes, and zebras in their natural habitats. Witness the Great Wildebeest Migration, one of the most remarkable wildlife spectacles on the planet. Immerse yourself in the rich culture of the Maasai people, learning about their traditional way of life and participating in tribal ceremonies. Discover the beauty of the Great Rift Valley, home to stunning lakes, volcanic landscapes, and abundant birdlife. Capture breathtaking sunrises and sunsets over the vast savannah. Kenya offers a true safari experience, where you can witness nature's wonders up close and create lifelong memories.",
+    "image": "https://www.naturaltoursandsafaris.com/wp-content/uploads/2022/08/KEN_7854-1-scaled-e1660295254314.jpg",
+    "cost": "$3000"
+  },
+  {
+    "id": 5,
+    "title": "Experience the Serenity of Santorini",
+    "description": "Escape to the serene beauty of Santorini, a mesmerizing Greek island in the Aegean Sea. Immerse yourself in the timeless charm of its whitewashed buildings, set against the backdrop of the deep blue sea. Explore the picturesque villages of Oia, Fira, and Imerovigli, with their narrow winding streets and breathtaking caldera views. Marvel at the iconic blue-domed churches and traditional cave houses carved into the cliffs. Take a boat tour to the volcanic islands of Nea Kameni and Palea Kameni, where you can relax in natural hot springs. Indulge in delectable Greek cuisine, enjoying fresh seafood, local wines, and traditional dishes like moussaka and baklava. Unwind on the island's black sand or red sand beaches, basking in the Mediterranean sun. Santorini's enchanting beauty and tranquil atmosphere make it the perfect destination for a romantic and rejuvenating getaway.",
+    "image": "https://guardian.ng/wp-content/uploads/2018/10/Santorini.-Photo-The-National.jpg",
+    "cost": "$2800"
+  }
+]
